@@ -3,7 +3,7 @@
 Viper是适用于Go应用程序的完整配置解决方案。它被设计用于在应用程序中工作，并且可以处理**所有类型的配置需求和格式**。
 ## 安装
 ```sh
-$ go get github.com/spf13/viper
+$ go install github.com/spf13/viper@latest
 ```
 ## 什么是Viper
 Viper是一个功能强大的配置管理库，特别适用于Go应用程序。它可以帮助Go开发者轻松加载、解析、更新和保存配置信息，从而使应用程序配置管理更加方便和灵活。
